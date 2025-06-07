@@ -7,6 +7,6 @@
         "rabbitmq": "amqp://localhost",
         "queue": "webhook-proxy"
     },
-    "redis": "redis://127.0.0.1/0",
+    "redis": "redis://red-csaapfjqf0us739rsbbg:6379",
     "abuseThreshold": 12
 }
